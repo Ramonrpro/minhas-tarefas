@@ -2,5 +2,18 @@
     "editor.formatOnSave": false,
     "editor.codeActionsOnSave": {
       "source.fixAll.eslint": "explicit"
-    }
+    },
+    "cSpell.enabled": true,
+    "cSpell.words": [
+      "ativo",
+      "Botao",
+      "contador",
+      "Contador",
+      "Descricao",
+      "Filtro",
+      "legenda",
+      "pendentes",
+      "Tarefa"
+    ],
+    "cSpell.language": "en,pt,pt-BR"
   }
